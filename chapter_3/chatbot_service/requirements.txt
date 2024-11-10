@@ -1,0 +1,3 @@
+spacy==3.4.4
+git+https://github.com/code4tag/ChatterBot.git@1.0.8.en_patch
+pyyaml==5.4.1

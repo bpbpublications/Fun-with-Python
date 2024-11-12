@@ -1,0 +1,5 @@
+https://www.wikipedia.org/portal/wikipedia.org/assets/img/sprite-8bb90067.svg
+https://www.wikipedia.org/portal/wikipedia.org/assets/js/index-86c7e2579d.js
+https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikinews-logo_sister.png
+https://www.wikipedia.org/portal/wikipedia.org/assets/js/gt-ie9-ce3fe8e88d.js
+https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png

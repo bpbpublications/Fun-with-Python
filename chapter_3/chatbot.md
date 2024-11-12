@@ -7,6 +7,13 @@
 pip install chatterbot
 ```
 
+```sh
+$ pip install spacy==3.4.4 pyyaml==5.4.1
+$ git clone git@github.com:bpbpublications/Fun-with-Python.git
+$ cd fun-with-Python/chapter_3/ChatterBot/
+$ python setup.py install
+```
+
 ## fix
 
 With proper dicitonary loading

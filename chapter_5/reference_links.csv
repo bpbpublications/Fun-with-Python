@@ -1,0 +1,119 @@
+https://docs.python.org/3/faq/general.html#what-is-python,General Python FAQ — Python 3.9.2 documentation
+https://wiki.python.org/moin/Why%20is%20Python%20a%20dynamic%20language%20and%20also%20a%20strongly%20typed%20language,Why is Python a dynamic language and also a strongly typed language – Python Wiki
+https://www.python.org/dev/peps/pep-0483/,PEP 483 – The Theory of Type Hints
+https://docs.python.org/3.7/library/test.html?highlight=android#test.support.is_android,test — Regression tests package for Python — Python 3.7.13 documentation
+https://docs.python.org/3/library/platform.html?highlight=android,platform — Access to underlying platform's identifying data — Python 3.10.4 documentation
+https://www.python.org/downloads/,Download Python
+https://www.python.org/dev/peps/pep-0441/,PEP 0441 – Improving Python ZIP Application Support
+https://www.python.org/dev/peps/pep-0488/,PEP 0488
+https://docs.bazel.build/versions/master/skylark/language.html,Starlark Language
+http://archive.adaic.com/standards/83lrm/html/lrm-11-03.html#11.3,Ada 83 Reference Manual (raise statement)
+#cite_ref-98-interview_14-1,b
+https://docs.python.org/3/library/re.html,re — Regular expression operations — Python 3.10.6 documentation
+https://coffeescript.org/,CoffeeScript
+https://wiki.gnome.org/action/show/Projects/Genie,The Genie Programming Language Tutorial
+http://www.2ality.com/2013/02/javascript-influences.html,Perl and Python influences in JavaScript
+http://speakingjs.com/es5/ch03.html,Chapter 3: The Nature of JavaScript; Influences
+https://www.python.org/dev/peps/pep-0206/,PEP 206 – Python Advanced Library
+https://python-history.blogspot.com/2009/01/brief-timeline-of-python.html,The History of Python: A Brief Timeline of Python
+https://pythoninsider.blogspot.com/2020/04/python-2718-last-release-of-python-2.html,"Python Insider: Python 2.7.18, the last release of Python 2"
+https://survey.stackoverflow.co/2022/?utm_source=social-share&utm_medium=social&utm_campaign=dev-survey-2022,Stack Overflow Developer Survey 2022
+https://www.jetbrains.com/lp/devecosystem-2020/,The State of Developer Ecosystem in 2020 Infographic
+https://www.tiobe.com/tiobe-index/,index | TIOBE – The Software Quality Company
+https://pypl.github.io/PYPL.html,PYPL PopularitY of Programming Language index
+https://www.python.org/dev/peps/pep-8100/,PEP 8100
+https://www.python.org/dev/peps/pep-0013/,PEP 13 – Python Language Governance
+https://docs.python.org/3/library/2to3.html,2to3 – Automated Python 2 to 3 code translation
+https://legacy.python.org/dev/peps/pep-0373/,PEP 373 – Python 2.7 Release Schedule
+https://www.python.org/dev/peps/pep-0466/,PEP 466 – Network Security Enhancements for Python 2.7.x
+https://www.python.org/doc/sunset-python-2/,Sunsetting Python 2
+https://www.python.org/dev/peps/pep-0373/,PEP 373 – Python 2.7 Release Schedule
+https://pythoninsider.blogspot.com/2021/02/python-392-and-388-are-now-available.html,Python Insider: Python 3.9.2 and 3.8.8 are now available
+https://access.redhat.com/security/cve/cve-2021-3177,Red Hat Customer Portal – Access to 24x7 support and knowledge
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3177,CVE – CVE-2021-3177
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-23336,CVE – CVE-2021-23336
+https://pythoninsider.blogspot.com/2022/03/python-3104-and-3912-are-now-available.html,Python Insider: Python 3.10.4 and 3.9.12 are now available out of schedule
+https://pythoninsider.blogspot.com/2022/03/python-3103-3911-3813-and-3713-are-now.html,"Python Insider: Python 3.10.3, 3.9.11, 3.8.13, and 3.7.13 are now available with security content"
+https://pythoninsider.blogspot.com/2022/05/python-3913-is-now-available.html,Python Insider: Python 3.9.13 is now available
+https://pythoninsider.blogspot.com/2022/09/python-releases-3107-3914-3814-and-3714.html,"Python Insider: Python releases 3.10.7, 3.9.14, 3.8.14, and 3.7.14 are now available"
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-10735,CVE - CVE-2020-10735
+https://lwn.net/Articles/912216/,Python 3.11 released [LWN.net]
+https://blog.python.org/2022/10/python-3120-alpha-1-released.html,Python Insider: Python 3.12.0 alpha 1 released
+https://web.archive.org/web/20190511065650/http://insidetech.monster.com/training/articles/8114-15-ways-python-is-a-powerful-force-on-the-web,15 Ways Python Is a Powerful Force on the Web
+https://docs.python.org/3/library/pprint.html,pprint — Data pretty printer — Python 3.11.0 documentation
+https://towardsdatascience.com/how-to-be-pythonic-and-why-you-should-care-188d63a5037e,How to be Pythonic and why you should care
+https://docs.python-guide.org/writing/style,Code Style — The Hitchhiker's Guide to Python
+https://www.python.org/dev/peps/pep-0008/,PEP 8 – Style Guide for Python Code
+https://docs.python.org/3.11/tutorial/errors.html,8. Errors and Exceptions — Python 3.12.0a0 documentation
+https://www.python.org/download/releases/2.5/highlights/,Highlights: Python 2.5
+https://docs.python.org,division
+https://docs.python.org/3/library/stdtypes.html#tuple,4. Built-in Types — Python 3.6.3rc1 documentation
+https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences,5.3. Tuples and Sequences — Python 3.7.1rc2 documentation
+https://books.google.com/books?id=7GUKEAAAQBAJ&pg=PA322,Beyond the Basic Stuff with Python: Best Practices for Writing Clean Code
+https://lwn.net/Articles/627418/,Type hinting for Python
+http://mypy-lang.org/,mypy – Optional Static Typing for Python
+https://docs.python.org/3.8/tutorial/floatingpoint.html#representation-error,15. Floating Point Arithmetic: Issues and Limitations — Python 3.8.3 documentation
+https://docs.python.org/3/library/stdtypes.html#typesseq-range,Built-in Types
+https://legacy.python.org/dev/peps/pep-0465/,PEP 465 – A dedicated infix operator for matrix multiplication
+https://www.python.org/dev/peps/pep-0327/,PEP 0327 – Decimal Data Type
+https://docs.python.org/2.6/whatsnew/2.6.html,What's New in Python 2.6 — Python v2.6.9 documentation
+https://web.archive.org/web/20200531211840/https://www.stat.washington.edu/~hoytak/blog/whypython.html,10 Reasons Python Rocks for Research (And a Few Reasons it Doesn't) – Hoyt Koepke
+https://engineering.ucsb.edu/~shell/che210d/python.pdf,An introduction to Python for scientific computing
+https://web.archive.org/web/20170715151703/https://www.enthought.com/products/canopy/,Canopy
+https://peps.python.org/pep-0007/,PEP 7 – Style Guide for C Code | peps.python.org
+https://mail.python.org/archives/list/python-dev@python.org/thread/PLXETSQE7PRFXBXN2QY6VNPKUTM6I7OD/,Mailman 3 Why aren't we allowing the use of C11? - Python-Dev - python.org
+https://bugs.python.org/issue35473,"Issue 35473: Intel compiler (icc) does not fully support C11 Features, including atomics – Python tracker"
+https://docs.python.org/3/extending/building.html,4. Building C and C++ Extensions — Python 3.9.2 documentation
+https://docs.python.org/release/3.9.0/whatsnew/changelog.html#changelog,Changelog — Python 3.9.0 documentation
+https://www.python.org/downloads/release/python-391,Download Python
+https://www.vmspython.org/doku.php?id=history,history [vmspython]
+https://www.python.org/download/other/,Download Python for Other Platforms
+https://www.pypy.org/download.html,Download and Install
+https://education.lego.com/en-us/support/mindstorms-ev3/python-for-ev3,Python-for-EV3
+https://www.infoworld.com/article/3587591/pyston-returns-from-the-dead-to-speed-python.html,Pyston returns from the dead to speed Python
+https://github.com/facebookincubator/cinder,cinder: Instagram's performance-oriented fork of CPython
+http://www.stochasticgeometry.ie/2010/04/29/python-on-the-nokia-n900/,Python on the Nokia N900
+https://brython.info/,Brython
+https://www.transcrypt.org,Transcrypt – Python in the browser
+https://www.infoq.com/articles/transcrypt-python-javascript-compiler/,Transcrypt: Anatomy of a Python to JavaScript Compiler
+http://nuitka.net/,Nuitka Home | Nuitka Home
+https://medium.com/@olivier.borderies/pythran-python-at-c-speed-518f26af60e8,Pythran: Python at C++ speed !
+https://pythran.readthedocs.io/en/latest/,Pythran — Pythran 0.9.5 documentation
+http://conference.scipy.org/proceedings/scipy2013/html/pdfs/guelton.pdf,Archived copy
+https://11l-lang.org/transpiler,The Python → 11l → C++ transpiler
+https://github.com/google/grumpy,google/grumpy
+https://opensource.google/projects/,Projects
+https://www.theregister.com/2017/01/05/googles_grumpy_makes_python_go/,Google's Grumpy code makes Python Go
+https://github.com/IronLanguages/ironpython3,GitHub – IronLanguages/ironpython3: Implementation of Python 3.x for .NET Framework that is built on top of the Dynamic Language Runtime
+https://ironpython.net/,IronPython.net /
+https://www.jython.org/jython-old-sites/archive/22/userfaq.html,Jython FAQ
+/wiki/ArXiv_(identifier),arXiv
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/python.html,The Computer Language Benchmarks Game
+https://www.python.org/dev/peps/pep-0008/,PEP 8 – Style Guide for Python Code
+https://lwn.net/Articles/885854/,Moving Python's bugs to GitHub [LWN.net]
+https://www.techrepublic.com/article/programming-languages-why-python-4-0-will-probably-never-arrive-according-to-its-creator/,"Programming languages: Why Python 4.0 might never arrive, according to its creator"
+https://www.python.org/dev/peps/pep-0602/,PEP 602 – Annual Release Cycle for Python
+https://lwn.net/Articles/802777/,Changing the Python release cadence [LWN.net]
+https://docs.python.org/3/extending/extending.html,1. Extending Python with C or C++ — Python 3.9.1 documentation
+https://www.python.org/dev/peps/pep-0623/,PEP 623 – Remove wstr from Unicode
+https://www.python.org/dev/peps/pep-0634/,PEP 634 – Structural Pattern Matching: Specification
+https://wiki.python.org/moin/DocumentationTools,Documentation Tools
+https://books.google.com/books?id=1HxWGezDZcgC&pg=PA17,Learning Python: Powerful Object-Oriented Programming
+https://books.google.com/books?id=carqdIdfVlYC&pg=PR15,Python
+http://www.tiobe.com/tiobe-index/,TIOBE Index
+https://seniordba.wordpress.com/2021/01/18/tiobe-index-for-january-2021/,TIOBE Index for January 2021
+https://developers.facebook.com/blog/post/301,Tornado: Facebook's Real-Time Web Framework for Python – Facebook for Developers
+https://instagram-engineering.com/what-powers-instagram-hundreds-of-instances-dozens-of-technologies-adf2e22da2ad,"What Powers Instagram: Hundreds of Instances, Dozens of Technologies"
+https://labs.spotify.com/2013/03/20/how-we-use-python-at-spotify/,How we use Python at Spotify
+https://github.com/reddit-archive/reddit,GitHub – reddit-archive/reddit: historical code from reddit.com.
+https://docs.opencv.org/3.4.9/d6/d00/tutorial_py_root.html,OpenCV: OpenCV-Python Tutorials
+https://www.kdnuggets.com/2018/05/poll-tools-analytics-data-science-machine-learning-results.html/2,"Python eats away at R: Top Software for Analytics, Data Science, Machine Learning in 2018: Trends and Analysis"
+https://scikit-learn.org/stable/testimonials/testimonials.html,Who is using scikit-learn? — scikit-learn 0.20.1 documentation
+/wiki/Norman_Jouppi,"Jouppi, Norm"
+https://web.archive.org/web/20130717070814/http://gimp-win.sourceforge.net/faq.html,Installers for GIMP for Windows – Frequently Asked Questions
+https://docs.python.org/3/using/unix.html,Python Setup and Usage
+http://www.libreoffice.org/download/4-0-new-features-and-fixes/,4.0 New Features and Fixes
+https://docs.godotengine.org/en/stable/about/faq.html,Frequently asked questions
+https://www.infoworld.com/article/3157745/application-development/nim-language-draws-from-best-of-python-rust-go-and-lisp.html,"Nim language draws from best of Python, Rust, Go, and Lisp"
+/wiki/Chris_Lattner,"Lattner, Chris"
+https://github.com/apple/swift-evolution/blob/master/process.md,Swift Evolution Process

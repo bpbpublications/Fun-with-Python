@@ -1,8 +1,8 @@
 # install
 
 ```sh
-$ git clone git@github.com:darkman66/neuralintents.git
-$ cd neuralintents
+$ git clone git@github.com:bpbpublications/Fun-with-Python.git
+$ cd fun-with-Python/chapter_8/neuralintents
 $ python setup.py install
 ```
 

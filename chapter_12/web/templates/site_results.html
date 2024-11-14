@@ -1,0 +1,10 @@
+{% extends 'main.html' %}
+
+{% block content %}
+  <div>scanned ports</div>
+  {% for port  in data.ports %}
+  <div><a href="{{ url_for('port_scanning_results', site=site, port=port) }}">{{ port }}</a></div>
+  {% endfor %}
+  <div><a href="{{ url_for('port_scanning_results', site=site, port="status") }}">site status</a></div>
+  <div><a href="{{ url_for('port_scanning_results', site=site, port="ping") }}">ping</a></div>
+{% endblock %}

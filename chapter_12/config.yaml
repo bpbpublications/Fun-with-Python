@@ -1,0 +1,18 @@
+sites:
+  wikipedia:
+    url: https://wikipedia.org
+    ports:
+      - 443
+      - 80
+      - 465
+  gmail:
+    url: https://gmail.com
+    ports:
+      - 443
+      - 465
+      - 587
+  vimeo:
+    url: https://vimeo.com
+    ports:
+      - 443
+      - 80

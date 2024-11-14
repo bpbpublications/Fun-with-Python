@@ -1,0 +1,23 @@
+{% extends 'main.html' %}
+
+{% block content %}
+  <div>Results of scanning for port <b>{{ port }}</b></div>
+  <div><a href="{{ url_for('list_of_result') }}">go to Main</a></div>
+ <div><img src="{{ url_for('history', site=site, scanned_item=port) }}" /></div>
+
+ <h3>History</h3>
+ <div>
+    <table>
+      <tr>
+        <th>Date</th>
+        <th>Value</th>
+      </tr>
+    {% for item in items %}
+    <tr>
+      <td>{{ item[0] }}</td>
+      <td>{{ item[1] }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+ </div>
+{% endblock %}

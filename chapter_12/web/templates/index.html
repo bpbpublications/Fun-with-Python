@@ -1,0 +1,10 @@
+{% extends 'main.html' %}
+
+{% block content %}
+  <div>Monitoring results</div>
+  {% for site in config.sites %}
+  <div><a href="{{ url_for('scanning_results', site=site) }}">{{ site }}</a></div>
+  {% endfor %}
+
+
+{% endblock %}

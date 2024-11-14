@@ -1,0 +1,10 @@
+ebaysdk
+click
+plyer
+pyobjus
+beautifulsoup4
+pyyaml
+python-cron
+asyncio_pool
+httpx
+httpx[http2]

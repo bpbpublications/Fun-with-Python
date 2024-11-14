@@ -1,0 +1,18 @@
+contact:
+- address:
+    home:
+      city: amazing city
+      code: 123456
+      country: best country
+      street: seasame street
+  birthday: 1978-09-15
+  email:
+    home: smith78@foo.com
+    work: j.smith@work.foo.com
+  gender: Male
+  name: John
+  surname: Smith
+  org:
+    role: CEO
+    title: upper main boss
+    name: best company ever

@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS currency (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    currency_code TEXT UNIQUE,
+    currency_name TEXT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

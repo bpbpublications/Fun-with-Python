@@ -163,5 +163,6 @@ chapter_4/*.csv
 
 # images
 chapter_15/test.png
-
+chapter_13/sniper/key
+chapter_13/sniper/cc.data
 *sqlite3-wal
